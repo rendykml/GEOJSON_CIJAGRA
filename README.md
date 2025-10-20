@@ -46,8 +46,9 @@ Berikut contoh salah satu fitur dari GeoJSON:
     ]
   }
 }
-
+```
 ## 🗺️ Visualisasi Hasil GeoJSON
+<img width="1003" height="924" alt="image" src="https://github.com/user-attachments/assets/d874b77b-0b71-4411-8ea6-f89a2fd68cfa" />
 
 Garis **Abu** menunjukkan jalur jalan yang telah dibuat menggunakan tipe `LineString`.
 
