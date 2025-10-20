@@ -52,13 +52,7 @@ Berikut contoh salah satu fitur dari GeoJSON:
 
 Garis **Abu** menunjukkan jalur jalan yang telah dibuat menggunakan tipe `LineString`.
 
-## Struktur Folder
-GEOJSON_CIJAGRA/
-├── jalan_kelurahan_cijagra.geojson # Data GeoJSON
-├── insert.js # Script untuk insert ke MongoDB
-├── package.json # Konfigurasi project
-├── image.png # Screenshot hasil di geojson.io
-└── README.md # Dokumentasi project
+
 
 
 
